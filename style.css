@@ -231,6 +231,9 @@ nav .left div:hover a span {
   display: flex;
   justify-content: start;
   align-items: center;
+background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
 }
 .section1 .details {
   margin-left: 270px;
